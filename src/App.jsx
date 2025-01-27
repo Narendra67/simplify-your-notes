@@ -1,6 +1,6 @@
 import Posts from "./components/Posts";
 
-const App = () => {
+export const App = () => {
   return (
     <section className="main-section">
       <Posts />

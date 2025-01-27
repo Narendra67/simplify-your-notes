@@ -1,3 +1,7 @@
+img{
+  display: flex;
+  
+}
 body {
     background-color: #17202a;
   }
